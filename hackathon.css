@@ -1,0 +1,93 @@
+.head {
+    padding-left: 100px;
+    color: rgb(112, 66, 66);
+    font-family: 'Barlow', sans-serif;
+    font-size: 25px;
+}
+
+.i {
+    padding-left: 50px;
+}
+#j:hover{
+               background-color: rgb(202, 227, 245);
+}
+#n:hover{
+    background: rgb(200, 198, 198);
+}
+.b:hover{
+    background: none;
+    color: black;
+}
+
+
+input[type=email] {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+input[type=password] {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+div ul li {
+    display:flex;
+    float: right;
+    padding-right: 50px;
+    gap: 20px;
+}
+.b{
+    text-decoration: none;
+    color: rgb(91, 90, 90);
+}
+
+.l {
+    padding-left: 100px;
+}
+
+#j {
+    border: 1px solid rgb(22, 74, 151);
+    text-decoration: none;
+    color: rgb(22, 74, 151);
+    font-weight: bold;
+    border-radius: 15px;
+    text-align: center;
+    width: 90px;
+    height: 25px;
+
+}
+
+#n {
+    border: 1px solid white;
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+    box-shadow: -1px 0 0 0;
+    border-radius: 5px;
+}
+
+#k {
+    border: 1px solid rgb(22, 74, 151);
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    background-color: rgb(22, 74, 151);
+    font-weight: bold;
+    border-radius: 10px;
+    border-left-width: 100px;
+    border-right-width: 100px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    text-align: center;
+
+
+}
+
+.g {
+    float: right;
+margin-top: 100px;
+    
+}

@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(245, 241, 236);
+}
+.img{
+    margin-left: 50px;
+    margin-top: -20px;
+}
+h3{
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: -15px;
+}
+.box{
+    margin-top: -5px;
+    border: 0px solid rgb(208, 206, 206);
+    width: 400px;
+    height:500px;
+    background-color: white;
+    margin-left: 550px;
+    box-shadow: 0 0 0 8px rgb(250, 249, 249);
+    border-radius: 10px;
+}
+input[type=email] {
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+input[type=password] {
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#u{
+    text-decoration: none;
+    color: rgb(55, 126, 174);
+}
+
+#v {
+    width: 100px;
+    padding: 7px 0;
+    border: 1px solid rgb(45, 128, 200);
+    border-radius: 30px;
+  background:rgb(45, 128, 200) ;
+  margin-left: 50px;
+  font-weight: bold;
+  
+  text-decoration: none;
+  border-radius: 20px;
+  border-left-width: 100px;
+  border-right-width: 100px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  color: white;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background: #c2c2c2;
+    margin: 5px;
+}
+span{
+    display: block;
+    width: 40px;
+    margin: auto;
+    background: #fff;
+    font-size: 14px;
+    margin-top: -16px;
+    padding-left: 15px;
+}
+.logo button{
+    width: 90%;
+    padding: 7px 0;
+    border: 0px solid rgb(112, 112, 112);
+    border-radius: 30px;
+  background: transparent;
+  margin-left: 15px;
+  font-weight: bold;
+  box-shadow: 0 0 5px gray;
+  font-family: 'Barlow', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+.logo button img{
+    margin-right: 20px;
+    
+}
+.j{
+    padding-left: 100px;
+    font-family: 'Barlow', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+ #n{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(83, 143, 196);
+
+}
+.r{
+    padding-left: 570px;
+    font-family: 'Barlow', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
